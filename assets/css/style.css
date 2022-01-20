@@ -177,6 +177,7 @@ hr {
     font-size: 280%;
 }
 
+/* Create square container so that border radius 50% works  */
 #circle-container {
     width: 300px;
     height: 300px;
@@ -188,6 +189,7 @@ hr {
     margin: 0 auto;
 }
 
+/* Use border radius here too to fit image into circle  */
 #circle-cover-bg {
     background: url(../images/ethos-center-image.jpg) no-repeat center center;
     height: 100%;
